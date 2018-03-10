@@ -1,0 +1,1 @@
+stringToUpper = raw_input("uppercase this: ")
