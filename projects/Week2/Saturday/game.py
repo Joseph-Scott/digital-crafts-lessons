@@ -2,6 +2,7 @@
 # 1. fight goblin
 # 2. do nothing - in which case the goblin will attack him anyway
 # 3. flee
+# this is me modifying a file
 
 def main():
     hero_health = 10
